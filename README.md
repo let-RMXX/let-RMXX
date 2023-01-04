@@ -1,6 +1,6 @@
 - 👋 let _RMXX = "Hello im Rui";
 - 👀 let _interests = "Interested in programming and Cybersecurity";
-- 🌱 var _currentlyLearning = "JavaScript";
+- 🌱 var _currentlyLearning = "Java";
 - 📫 const contactMe = "https://twitter.com/_letRMXX"
 
 <!---
